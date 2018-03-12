@@ -1,3 +1,4 @@
+```py
 kruskal(G):
 	T = 0
 	for each v in G:
@@ -7,3 +8,4 @@ kruskal(G):
 			T = T U {u, v}
 			union(u, v)
 	return T
+```
