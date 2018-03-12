@@ -1,3 +1,4 @@
+```py
 dfs(src):
 	stack s
 	visited[] = init all node as unvisited
@@ -12,3 +13,4 @@ dfs(src):
 			if visited[v] == false:
 				visited[v] = true
 				s.push(v)
+```
