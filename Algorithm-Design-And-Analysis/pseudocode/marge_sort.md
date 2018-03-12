@@ -1,3 +1,4 @@
+```py
 marge(array, array1, array2):
 	array.clear()
 	for i = 0, j = 0; i < array1.size() && j < array2.size():
@@ -26,3 +27,4 @@ marge_sort(array):
 		marge_sort(array2)
 
 		marge(array, array1, array2)
+```
