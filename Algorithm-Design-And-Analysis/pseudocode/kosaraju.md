@@ -1,3 +1,4 @@
+```py
 AdjList, AdjListT
 visited[N]
 vector S
@@ -24,3 +25,4 @@ main():
 		if visited[S[i]] == false:
 			numSCC += 1
 			kosaraju(S[i], 2)
+```
