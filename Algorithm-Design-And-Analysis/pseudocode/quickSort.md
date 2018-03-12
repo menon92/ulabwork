@@ -1,3 +1,4 @@
+```py
 QuickSort(A, start, end):
 	if start < end:
 		pindex = partition(A, start, end)
@@ -14,3 +15,4 @@ partition(a, start, end):
 			pindex += 1
 	swap(A[pindex], A[end])
 	return pindex
+```
