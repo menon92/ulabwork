@@ -1,3 +1,4 @@
+```py
 process(u):
 	taken[u] = true
 	for j = 0; j < AdjList[j].size(); j++:
@@ -15,3 +16,4 @@ prims():
 		if taken[u] == false:
 			mst_cost += w
 		process(u)
+```
