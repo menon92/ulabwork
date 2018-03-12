@@ -1,3 +1,4 @@
+```py
 insertionSort(A):
 	for j = 2 to A.lenght():
 		key = A[j]
@@ -6,3 +7,4 @@ insertionSort(A):
 			A[i + 1] = A[i]
 			i = i - 1
 		A[i + 1] = key
+```
