@@ -1,3 +1,4 @@
+```py
 dfs(src):
 	queue q
 	visited[] = init all node as unvisited
@@ -15,3 +16,4 @@ dfs(src):
 				visited[v] = true
 				level[v] = level[u] + 1
 				q.push(v)
+```
