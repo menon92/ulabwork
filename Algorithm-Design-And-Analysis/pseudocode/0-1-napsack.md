@@ -1,4 +1,4 @@
-```
+```py
 dp[N][W]
 cost[N]
 weight[N]
