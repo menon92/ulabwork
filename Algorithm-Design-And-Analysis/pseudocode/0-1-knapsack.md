@@ -5,7 +5,7 @@ weight[N]
 CAP = MAX_CAP
 
 func(i, w):
-	if i == N + 1:
+	if i == N + 1: 
 		return 0
 	if dp[i][w] != -1:
 		return dp[i][w]
