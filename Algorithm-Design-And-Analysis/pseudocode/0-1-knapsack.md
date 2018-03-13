@@ -14,7 +14,7 @@ func(i, w):
 	if w + weight[i] <= CAP:
 		profit1 = cost[i] + func(i + 1, w + weight[i])
 	else:
-		profit2 = cost[i] + func(i + 1, w)
+		profit2 = func(i + 1, w)
 
 	dp[i][w] = max(profit1, profit2)
 	return dp[i][w]
