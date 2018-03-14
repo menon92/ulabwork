@@ -15,5 +15,5 @@ prims():
 		w = ii.w
 		if taken[u] == false:
 			mst_cost += w
-		process(u)
+			process(u)
 ```
