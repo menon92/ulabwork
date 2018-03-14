@@ -3,10 +3,10 @@ marge(array, array1, array2):
 	array.clear()
 	for i = 0, j = 0; i < array1.size() && j < array2.size():
 		if array1[i] <= array2[j]:
-			array.push_back(array[i])
+			array.push_back(array1[i])
 			i++
-		else if array[i] > array[j]:
-			array.push_back(array[j])
+		else if array1[i] > array2[j]:
+			array.push_back(array2[j])
 			j++
 
 	while i < array1.size():
