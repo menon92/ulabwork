@@ -32,7 +32,7 @@ Motivation - 2
 Typography - 5
 ![image-3](https://github.com/menon92/ulabwork/blob/master/my-favourite-wp/party_time_3-wallpaper-3554x1999.jpg)
 
-??? 
+Winter rail
 ![image-3](https://github.com/menon92/ulabwork/blob/master/my-favourite-wp/pesseguinho-web.jpg)
 
 Problem
@@ -40,9 +40,6 @@ Problem
 
 Earth
 ![image-3](https://github.com/menon92/ulabwork/blob/master/my-favourite-wp/scorched_earth-wallpaper-1920x1080.jpg)
-
-Prefect Sense
-![image-3](https://github.com/menon92/ulabwork/blob/master/my-favourite-wp/someday_everything_will_make_perfect_sense_quote-wallpaper-2560x1440.jpg)
 
 Space
 ![image-3](https://github.com/menon92/ulabwork/blob/master/my-favourite-wp/space_46-wallpaper-2048x1152.jpg)
